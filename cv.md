@@ -12,8 +12,7 @@
 - CSS
 - JS
 - Bootstrap
-- REACT
-- Node.js
+- PHP
 
 ### Freelancer who is always learning
 
